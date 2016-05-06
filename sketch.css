@@ -1,0 +1,19 @@
+.row {
+	float:left;
+}
+
+#completeGrid {
+	position: relative;
+margin: 0 auto;
+border: 1px solid black;
+}
+
+#clearButton {
+	position: absolute;
+margin: 50px;	
+}
+
+.squares {
+	background-color: grey;
+	float:left;
+}
